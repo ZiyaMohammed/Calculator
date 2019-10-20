@@ -1,0 +1,24 @@
+ input {
+	 width:90px;
+	 height:75px;
+	 font-size:20px;
+	 margin:1px;
+	 background-color:black;
+	 color:#fff;
+	 border-style:narrower;
+	 border-radius:10px;
+	 
+ }
+ 
+ #formscal {
+	 
+	 margin-left: 225px;
+	 margin-top:10px;
+	 
+ }
+ 
+ h1 {
+	 font-size:50px;
+	 margin-left:225px;
+ }
+ 
